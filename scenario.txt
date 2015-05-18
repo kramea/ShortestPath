@@ -1,0 +1,11 @@
+1. Run the program for long distances and short distances (except the business districts such as SF and Oak)
+
+2. Run the program for long and short distances (for business districts SF and Oak)
+
+3. What if you have a high mileage car? (Plug-in prius does not have any toll cost)
+
+4. Carbon constraint for car (what if there are emission costs)? vs. Public Transport incentive.
+
+5. Equity analysis.
+
+
