@@ -5,4 +5,4 @@ Shortest path problems have a numerous applications in the transportation field.
 	
 This project will focus on the competition between the three modes of choice (Driving alone, Carpooling, taking transit) for the different income groups ranging from minimum wage to top 5%, for the BART train network in the Bay Area. The objective function is two-fold in this case, it is designed to first minimize the total travel time, and second, it is designed to minimize the total travel cost, and the optimal mode based on these two is then selected.  
 
-The shortest path algorithm was developed in Python and the cost and time optimization were done using Gurobi package.
+The shortest path algorithm was developed in Python and the BART network and shortest path were determined using networkx package.
